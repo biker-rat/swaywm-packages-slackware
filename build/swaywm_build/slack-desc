@@ -1,0 +1,18 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+sway: sway (sway window manager)
+sway:
+sway: sway is a window manager for wayland very much like i3 built on the 
+sway: wlroots compositor.
+sway:
+sway:
+sway:
+sway:
+sway: Homepage: https://github.com/swaywm/sway
+sway:
